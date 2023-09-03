@@ -1,5 +1,5 @@
-### NAME: PRIYANKA.A
-### REG.NO: 212222230113
+##### NAME: PRIYANKA.A
+##### REG.NO: 212222230113
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
