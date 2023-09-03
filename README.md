@@ -1,3 +1,5 @@
+NAME: PRIYANKA.A
+REG.NO: 212222230113
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
@@ -29,26 +31,58 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 #### Figure -02 FULL ADDER 
 
-### Procedure
+### Procedure:
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: PRIYANKA.A
+RegisterNumber: 212222230113
+Half adder program:
+module HalfAdder(A,B,sum,carry);
+input A,B;
+output sum,carry;
+assign sum= A^B;
+assign carry = A&B;
+endmodule
+Full adder program:
+module FullAdder(A,B,Cin,sum,carry);
+input A,B,Cin;
+output sum,carry;
+assign sum= A^B^Cin;
+assign carry = (A&B)|((A^B)&Cin);
+endmodule
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+```
+## OUTPI
+### RDL Diagram:
+
+HALF ADDER
+![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/b4f0c10a-2c46-4bb6-86c6-4275495a9c53)
+FULL ADDER
+![digi 22](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2056270e-8b61-4d00-aa34-f5d545538d65)
 
 
 ### TRUTH TABLE 
 
+HALF ADDER
+![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/e3340d9c-0340-4270-83d9-ddb4e3c699a9)
+FULL ADDER
+![digi 23](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2fc0b4e1-4c61-43ee-815e-5a9cfcb1a90a)
+
+### Waveform:
+
+HALF ADDER
+![digi1](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/28b03279-04f1-4288-acfa-369fa55a18e9)
+
+
+FULL ADDER
+![digi 21](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/1e0647f9-d49a-489c-9172-932114b4f0fd)
+
+
 ### Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
