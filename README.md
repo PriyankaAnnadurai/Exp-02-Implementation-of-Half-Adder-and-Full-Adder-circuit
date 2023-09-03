@@ -1,5 +1,5 @@
-NAME: PRIYANKA.A
-REG.NO: 212222230113
+### NAME: PRIYANKA.A
+### REG.NO: 212222230113
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
@@ -58,29 +58,28 @@ assign carry = (A&B)|((A^B)&Cin);
 endmodule
 
 ```
-## OUTPI
+## OUTPUT:
+
 ### RDL Diagram:
 
-HALF ADDER
+#### HALF ADDER
 ![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/b4f0c10a-2c46-4bb6-86c6-4275495a9c53)
-FULL ADDER
+#### FULL ADDER
 ![digi 22](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2056270e-8b61-4d00-aa34-f5d545538d65)
 
 
 ### TRUTH TABLE 
 
-HALF ADDER
+#### HALF ADDER
 ![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/e3340d9c-0340-4270-83d9-ddb4e3c699a9)
-FULL ADDER
+#### FULL ADDER
 ![digi 23](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2fc0b4e1-4c61-43ee-815e-5a9cfcb1a90a)
 
 ### Waveform:
 
-HALF ADDER
+#### HALF ADDER
 ![digi1](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/28b03279-04f1-4288-acfa-369fa55a18e9)
-
-
-FULL ADDER
+#### FULL ADDER
 ![digi 21](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/1e0647f9-d49a-489c-9172-932114b4f0fd)
 
 
