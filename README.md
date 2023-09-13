@@ -62,24 +62,27 @@ endmodule
 ### RDL Diagram:
 
 #### HALF ADDER
-![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/b4f0c10a-2c46-4bb6-86c6-4275495a9c53)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/71a3eb96-da66-46de-a2d9-1645d8ee54d1)
+
 #### FULL ADDER
-![digi 22](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2056270e-8b61-4d00-aa34-f5d545538d65)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/9530133a-8b2e-4f16-b0f8-0f7e22ec9e2a)
 
 
 ### TRUTH TABLE 
 
 #### HALF ADDER
-![digi 12](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/e3340d9c-0340-4270-83d9-ddb4e3c699a9)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/74c99555-1d54-4c8d-97bf-f418c480b556)
+
 #### FULL ADDER
-![digi 23](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/2fc0b4e1-4c61-43ee-815e-5a9cfcb1a90a)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/c355d401-5262-43fe-9b65-600e5d869560)
 
 ### Waveform:
 
 #### HALF ADDER
-![digi1](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/28b03279-04f1-4288-acfa-369fa55a18e9)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/218a4305-8c84-4935-916f-ec9d19dbde14)
+
 #### FULL ADDER
-![digi 21](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/1e0647f9-d49a-489c-9172-932114b4f0fd)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/7b3e726c-da2c-4c14-a095-7c14956bae56)
 
 
 ### Result:
