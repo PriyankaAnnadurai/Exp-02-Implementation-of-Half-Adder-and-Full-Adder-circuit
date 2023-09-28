@@ -71,10 +71,12 @@ endmodule
 ### TRUTH TABLE 
 
 #### HALF ADDER
-![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/74c99555-1d54-4c8d-97bf-f418c480b556)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/7c6ac847-6a3f-489d-94ad-2e287ccd0222)
+
 
 #### FULL ADDER
-![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/c355d401-5262-43fe-9b65-600e5d869560)
+![image](https://github.com/PriyankaAnnadurai/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118351569/1e0a0b0c-ae7b-4de3-8519-f007cf7211db)
+
 
 ### Waveform:
 
